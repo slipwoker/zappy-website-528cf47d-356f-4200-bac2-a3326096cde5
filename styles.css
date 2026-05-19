@@ -2248,8 +2248,8 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   backdrop-filter: none;
   -webkit-backdrop-filter: blur(18px);
   border: none;
-  border-radius: 16px;
-  padding: 48px 40px;
+  border-radius: 0;
+  padding: 0;
   max-width: 480px;
   width: 100%;
   box-shadow: none;
