@@ -3023,10 +3023,9 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   transform: scale(1.02);
 }
 
-/* Backplate tile — peeks from bottom-start corner */
 .index-credibility-section .index-credibility-backplate {
   position: absolute;
-  bottom: -28px;
+  bottom: auto;
   inset-inline-start: -36px;
   width: 240px;
   height: 172px;
@@ -3035,6 +3034,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   overflow: hidden;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
   opacity: 0.85;
+  top: -28px;
 }
 
 .index-credibility-section .index-credibility-tile-img {
