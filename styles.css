@@ -3045,11 +3045,10 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   border-radius: 12px;
 }
 
-/* Floating accreditation badge */
 .index-credibility-section .index-credibility-float-badge {
   position: absolute;
-  top: 28px;
-  inset-inline-start: -24px;
+  top: auto;
+  inset-inline-start: auto;
   background: var(--bg-light);
   border: 1px solid var(--border-light);
   border-radius: 12px;
@@ -3061,6 +3060,8 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   gap: 10px;
   z-index: 4;
   min-width: 160px;
+  bottom: 20px;
+  inset-inline-end: -24px;
 }
 
 .index-credibility-section .index-credibility-float-badge-text {
