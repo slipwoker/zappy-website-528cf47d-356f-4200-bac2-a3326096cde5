@@ -2434,13 +2434,13 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 
   .index-hero-section .hero-card {
-    max-width: 100%;
-    width: 100%;
-    padding: 28px 22px;
-    margin-top: 0;
-    backdrop-filter: blur(14px);
-    -webkit-backdrop-filter: blur(14px);
-  }
+  max-width: 100%;
+  width: 100%;
+  padding: 28px 22px;
+  margin-top: 0;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: blur(14px);
+}
 
   .index-hero-section .hero-headline {
     font-size: 2rem;
