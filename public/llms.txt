@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://example.com
+https://sms4sport.zappy5.app
 SMS4SPORT הוא מרכז רפואת הספורט המוביל בתל אביב. בדיקות רפואיות מקצועיות, אישורי רופא ספורט ומדרסים בהתאמה אישית — הכל במקום אחד. קבע תור עוד היום!
 
 ### שירותים
-https://example.com/services
+https://sms4sport.zappy5.app/services
 גלה את מגוון שירותי רפואת הספורט שלנו: בדיקה רפואית לספורטאים, מדרסים בהתאמה אישית בתל אביב, ייעוץ רופא ספורט ועוד. ביצועים גבוהים מתחילים כאן.
 
 ### מרכז מידע
-https://example.com/information-center
+https://sms4sport.zappy5.app/information-center
 מרכז המידע של SMS4SPORT מציע מדריכים מקצועיים, מאמרים רפואיים ומידע עדכני על בדיקה רפואית לספורטאים בתל אביב. הדע שלך הוא הכוח שלך — התחל לקרוא.
 
 ### שאלון רפואי
-https://example.com/medical-questionnaire
+https://sms4sport.zappy5.app/medical-questionnaire
 מלא את השאלון הרפואי הדיגיטלי שלנו בקלות ובמהירות מכל מכשיר. הצעד הראשון לקבלת אישור רופא ספורט בתל אביב מתחיל כאן — פשוט, מאובטח ומקצועי.
 
 ### בלוג
-https://example.com/blog
+https://sms4sport.zappy5.app/blog
 בלוג SMS4SPORT מביא לך תכנים מקצועיים על ביצועים ספורטיביים, מניעת פציעות, ייעוץ רופא ספורט ואישור רפואי לספורט מוטורי. קרא, למד והתקדם חזק יותר.
 
 ### צור קשר
-https://example.com/contact
+https://sms4sport.zappy5.app/contact
 רוצה לקבוע תור לבדיקה רפואית ספורט בתל אביב? צור קשר עם מומחי SMS4SPORT עכשיו — נשמח לענות על כל שאלה ולהתאים לך את הטיפול המושלם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://sms4sport.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://sms4sport.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://sms4sport.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://sms4sport.zappy5.app/contact
+- Endpoint: https://sms4sport.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -85,6 +85,6 @@ Sports Medicine
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://sms4sport.zappy5.app/sitemap.xml
+- Robots: https://sms4sport.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://sms4sport.zappy5.app/llms-full.txt
