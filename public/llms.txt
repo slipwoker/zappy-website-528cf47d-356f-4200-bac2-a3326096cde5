@@ -1,0 +1,90 @@
+# SMS4SPORT — Generative Engine Optimization Map
+
+> SMS4SPORT is a professional sports medicine center positioned as the ultimate authority in sports medicine and athletic performance. The brand combines clinical credibility with athlete-focused UX, aiming to serve as both a trusted knowledge hub and a high-converting digital engine. The center emphasizes professionalism, data-driven care, and cutting-edge digital automation — including smart medical questionnaires, digital signatures, and seamless backend integrations — all wrapped in a mobile-first experience tailored for active athletes.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+SMS4SPORT הוא מרכז רפואת הספורט המוביל בתל אביב. בדיקות רפואיות מקצועיות, אישורי רופא ספורט ומדרסים בהתאמה אישית — הכל במקום אחד. קבע תור עוד היום!
+
+### שירותים
+https://example.com/services
+גלה את מגוון שירותי רפואת הספורט שלנו: בדיקה רפואית לספורטאים, מדרסים בהתאמה אישית בתל אביב, ייעוץ רופא ספורט ועוד. ביצועים גבוהים מתחילים כאן.
+
+### מרכז מידע
+https://example.com/information-center
+מרכז המידע של SMS4SPORT מציע מדריכים מקצועיים, מאמרים רפואיים ומידע עדכני על בדיקה רפואית לספורטאים בתל אביב. הדע שלך הוא הכוח שלך — התחל לקרוא.
+
+### שאלון רפואי
+https://example.com/medical-questionnaire
+מלא את השאלון הרפואי הדיגיטלי שלנו בקלות ובמהירות מכל מכשיר. הצעד הראשון לקבלת אישור רופא ספורט בתל אביב מתחיל כאן — פשוט, מאובטח ומקצועי.
+
+### בלוג
+https://example.com/blog
+בלוג SMS4SPORT מביא לך תכנים מקצועיים על ביצועים ספורטיביים, מניעת פציעות, ייעוץ רופא ספורט ואישור רפואי לספורט מוטורי. קרא, למד והתקדם חזק יותר.
+
+### צור קשר
+https://example.com/contact
+רוצה לקבוע תור לבדיקה רפואית ספורט בתל אביב? צור קשר עם מומחי SMS4SPORT עכשיו — נשמח לענות על כל שאלה ולהתאים לך את הטיפול המושלם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About SMS4SPORT
+SMS4SPORT is a professional sports medicine center positioned as the ultimate authority in sports medicine and athletic performance. The brand combines clinical credibility with athlete-focused UX, aiming to serve as both a trusted knowledge hub and a high-converting digital engine. The center emphasizes professionalism, data-driven care, and cutting-edge digital automation — including smart medical questionnaires, digital signatures, and seamless backend integrations — all wrapped in a mobile-first experience tailored for active athletes.
+
+## Target Audience
+- ספורטאים המחפשים שירותי רפואת ספורט ובדיקות רפואיות
+- ספורטאים המחפשים רפואת ספורט
+- מאמני קבוצות ספורט לצעירים
+- הורים לספורטאים צעירים
+- חובבי ספורט
+- קבוצות ריצה
+- רוכבי אופניים
+
+## Industry
+Sports Medicine
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
