@@ -2243,17 +2243,16 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   box-sizing: border-box;
 }
 
-/* ── Glass Card ── */
 .index-hero-section .hero-card {
-  background: rgba(255, 255, 255, 0.10);
-  backdrop-filter: blur(18px);
+  background: transparent;
+  backdrop-filter: none;
   -webkit-backdrop-filter: blur(18px);
-  border: 1px solid rgba(255, 255, 255, 0.22);
+  border: none;
   border-radius: 16px;
   padding: 48px 40px;
   max-width: 480px;
   width: 100%;
-  box-shadow: 0 16px 56px rgba(13, 30, 44, 0.38), 0 0 0 1px rgba(26, 166, 166, 0.12);
+  box-shadow: none;
   display: flex;
   flex-direction: column;
   gap: 0;
